@@ -11,7 +11,7 @@ Rafaela; Eu tenho 16 anos, estou concluindo o ensino funtalmental e me preparand
 Maria Julia; 
 Maria Eduarda; 
 Maria Clara;
-Ana Lucy;
+Ana Lucy; Eu tenho 17 anos, estou concluindo o ensino médio, pretendo ingressar na faculdade de publicidade e propaganda, e entar no mercado de trabalho. Sou organizada e gosto de descubrir novas coisas para ampliar meu conhecimento. Pretendo aprender cada vez mais sobre as áreas da tecnologia.
 Pedro;
 
 Preciso que faça uma auto biografia sobre ti, pensando com uma empresa pode contratar você.
@@ -33,9 +33,9 @@ Pense como foi criar com seus colegas de sala para ser algo divertido e facil de
 **Quem ira ser responsavel por partes do projeto?
 
 ex;
-Rafaela e Ana Lucy; cuidar do css.
-Maria Eduarda e Maria júlia; cuidar do html.
-Maria Clara e Pedro; cuidar do js ou  procurar info, inspirações e fotos.
+Rafaela e Maria Júlia; cuidar do css.
+Maria Clara e Pedro; cuidar do html.
+Ana Lucy e Maria Eduarda; cuidar do js ou  procurar info, inspirações e fotos.
 
 Não será escrito na pedra! Mas precisamos saber quem cuidou de cada parte e o "Segurar a cartolina" Não é parte das tarefas
 e sim todos devem pensar em como apresentar a continuação do outro.
