@@ -10,7 +10,7 @@ Vamos a mais uma conquista na sua formação profissional !
 Rafaela; Eu tenho 16 anos, estou concluindo o ensino funtalmental e me preparando para o ensino médio. Tenho facilidade com CSS, escrita e sou uma pessoa criativa além de trabalhar bem em equipe. Busco aprender mais na área de tecnologia e crescer em projetos que coloque em cena minha criatividade.
 Maria Julia; 
 Maria Eduarda; 
-Maria Clara;
+Maria Clara; Eu tenho 18 anos, estou terminando o ensino médio e me preparando para o mercado de trabalho. Tenho mais facilidade em comunicação com pessoas, tenho objetivo de aprender mais sobre a tecnologia que tem consequencia com a profissão que eu quero realizar.
 Ana Lucy;
 Pedro;
 
