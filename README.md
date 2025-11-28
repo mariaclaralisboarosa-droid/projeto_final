@@ -22,7 +22,7 @@ Preciso que faça uma auto biografia sobre ti, pensando com uma empresa pode con
 ## Tema do Projeto
 **Como em 3 minutos podemos entender seu Projeto !
 
-Nosso projeto tem como tema de concessionária, mostrando seus principais serviços, modelos de veículos e informações essenciais para o cliente. A ideia é apresentar tudo de forma organizada, criando um site que facilite a navegação e represente bem a identidade da empresa
+Nosso projeto tem como tema de concessionária, mostrando seus principais serviços, modelos de veículos e informações essenciais para o cliente. A ideia é apresentar tudo de forma organizada, criando um site que facilite a navegação e represente bem a identidade da empresa!
 
 Pense como foi criar com seus colegas de sala para ser algo divertido e facil de fazer, sem muita pressão ou cobrança
 * **Precisa** ser algo simples de ler e sem muitas perguntas, Combinado!
@@ -32,7 +32,6 @@ Pense como foi criar com seus colegas de sala para ser algo divertido e facil de
 ## Divisão de tarefas
 **Quem ira ser responsavel por partes do projeto?
 
-ex;
 Rafaela e Maria Júlia; cuidar do css.
 Maria Clara e Pedro; cuidar do html.
 Ana Lucy e Maria Eduarda; cuidar do js ou  procurar info, inspirações e fotos.
